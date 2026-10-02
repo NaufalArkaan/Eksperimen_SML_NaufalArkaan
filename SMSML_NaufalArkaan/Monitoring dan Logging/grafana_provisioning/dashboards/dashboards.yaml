@@ -1,0 +1,11 @@
+apiVersion: 1
+
+providers:
+  - name: 'NaufalArkaan Provider'
+    orgId: 1
+    folder: ''
+    type: file
+    disableDeletion: false
+    editable: true
+    options:
+      path: c:/CodingProjects/SMSML_NaufalArkaan/Monitoring dan Logging/1.grafana_dashboard_NaufalArkaan.json
