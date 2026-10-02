@@ -7,3 +7,5 @@ datasources:
     url: http://127.0.0.1:9090
     isDefault: true
     editable: true
+    uid: PBFA97CFB590B2093
+
