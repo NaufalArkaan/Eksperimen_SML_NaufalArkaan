@@ -1,0 +1,33 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Binaries & Downloaded Tools
+prometheus_bin/
+grafana_bin/
+*.zip
+
+# MLflow local tracking runs & caches
+mlruns/
+.mlruns/
+Monitoring dan Logging/mlruns/
+
+# Runtime DB / Data Lock Files
+Monitoring dan Logging/data/
+data/
+
+# Python byte-code / cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
